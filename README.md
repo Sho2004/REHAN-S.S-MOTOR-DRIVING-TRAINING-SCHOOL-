@@ -20,7 +20,11 @@
             <li><a href="#about">About</a></li>
             <li><a href="#courses">Courses</a></li>
             <li><a href="#gallery">Gallery</a></li>
-            <li><a href="#contact">Contact</a></li>
+            <li><a 
+            git add <path-to-photo>
+git commit -m "Added photo for website
+<https://g.co/kgs/Noqxx6s">
+git pushhref="#contact">Contact</a></li>
         </ul>
     </nav>
 
