@@ -49,6 +49,23 @@ href="#contact">Contact</a></li>
             </ul>
         </div>
     </section>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Photo Upload</title>
+</head>
+<body>
+    <h1>Upload Photo Section</h1>
+    <form>
+        <label for="photo">Choose a photo to upload:</label>
+        <input type="file" id="photo" name="photo" accept="image/*">
+        <br><br>
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>
 
     <section id="gallery">
         <div class="container">
