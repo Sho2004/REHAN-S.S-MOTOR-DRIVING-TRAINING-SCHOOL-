@@ -34,7 +34,7 @@
     <section id="about">
         <div class="container">
             <h2>About Us</h2>
-            <p>Rehan S.S Motor Driving Training School is committed to teaching safe and responsible driving. With years of experience, our team ensures that every student becomes a confident and skilled driver.</p>
+            <p>Rehan S.S Motor Driving Training School is committed to teaching safe and responsible driving. With years of experience, our team ensures that every student becomes a confident and skilled driver it is also for woman and man driving school and also taught traffic rules and give guild lines for safe driving the nearest lardmark is behind the DDPS school Our services is 5km daily for18 day".</p>
         </div>
     </section>
 
@@ -59,8 +59,8 @@
     <section id="contact">
         <div class="container">
             <h2>Contact Us</h2>
-            <p>Address: Your School Address Here</p>
-            <p>Phone: 123-456-7890</p>
+            <p>Address: N - 413 Sector- 23 Sanjay Nagar Ghaziabad Uttar Pradesh</p>
+            <p>Phone: 9990302257</p>
             <p>Email: info@rehanssdriving.com</p>
         </div>
     </section>
