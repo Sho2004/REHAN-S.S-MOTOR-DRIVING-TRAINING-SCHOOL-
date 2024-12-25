@@ -21,8 +21,6 @@
             <li><a href="#courses">Courses</a></li>
             <li><a href="#gallery">Gallery</a></li>
             <li><a 
-            git add <path-to-photo>
-git commit -m "Added photo for website
 href="#contact">Contact</a></li>
         </ul>
     </nav>
