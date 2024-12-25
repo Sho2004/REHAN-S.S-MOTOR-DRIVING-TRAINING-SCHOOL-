@@ -61,7 +61,7 @@
             <h2>Contact Us</h2>
             <p>Address: N - 413 Sector- 23 Sanjay Nagar Ghaziabad Uttar Pradesh</p>
             <p>Phone: 9990302257</p>
-            <p>Email: info@rehanssdriving.com</p>
+            <p>Email:info@rehanssdriving.com</p>
         </div>
     </section>
 
