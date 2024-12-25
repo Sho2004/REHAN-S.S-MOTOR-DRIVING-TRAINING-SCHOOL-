@@ -23,8 +23,7 @@
             <li><a 
             git add <path-to-photo>
 git commit -m "Added photo for website
-<https://g.co/kgs/Noqxx6s">
-git pushhref="#contact">Contact</a></li>
+href="#contact">Contact</a></li>
         </ul>
     </nav>
 
